@@ -1,0 +1,4 @@
+model_id,target_metric,predictor_metric,model_family,n,effect_native,ci99_lower,ci99_upper,effect_standardized,rate_ratio,rate_ratio_ci99_lower,rate_ratio_ci99_upper,dispersion_ratio
+M3_relationship_traffic_speed,avg_speed_kmph,traffic_volume,huber,1520,0.19778230795702237,-0.40429596252755845,0.7985511371601378,0.018387165092768044,,,,,2026-10-01T18:10:50+00:00
+M4_relationship_incidents_waterlogging,road_incidents,waterlogging_reports,poisson,1600,0.01583324495547795,-0.03368612975966651,0.06235774533620197,0.011303613337028309,1.0159592549490042,0.9668749302836159,1.0643430403867427,0.9865523783544947,2026-10-01T18:10:50+00:00
+M5_relationship_temperature_outage,power_outage_minutes,temperature_c,huber,1327,-0.018936211625919082,-0.1229868321551913,0.08681936206168613,-0.008964626582315987,,,,,2026-10-01T18:10:50+00:00

@@ -1,0 +1,4 @@
+hypothesis_id,metric_x,metric_y,expected_direction,n,spearman_r,ci99_lower,ci99_upper,p_value,p_adjusted_holm,practical_threshold_met,statistically_significant,supported_by_both_gates
+H1,traffic_volume,avg_speed_kmph,negative,1590,0.012915615584594458,-0.05169648407808527,0.07742003875277426,0.6068673950175325,1.0,0,0,0
+H2,road_incidents,waterlogging_reports,positive,1600,0.017836217854568532,-0.046584337476924656,0.08210902482238695,0.47593539946878755,1.0,0,0,0
+H3,temperature_c,power_outage_minutes,positive,1359,-0.012208413845236972,-0.0819745801110046,0.057676817453983974,0.653010562617671,1.0,0,0,0

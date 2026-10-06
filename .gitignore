@@ -1,0 +1,23 @@
+# macOS metadata
+.DS_Store
+
+# Python caches and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Temporary exports and editor files
+*.tmp
+*.swp
+*.swo

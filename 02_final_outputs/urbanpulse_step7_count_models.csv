@@ -1,0 +1,6 @@
+model_id,target_metric,n,selected_family,dispersion_ratio,nb_alpha,mean_count
+M2_city_zone_counts,traffic_volume,1537,negative_binomial,593.4932207601478,0.2871448746362182,2053.000650618087
+M2_city_zone_counts,public_transport_usage,1568,negative_binomial,372.2283722494774,0.2845083336635306,1296.9719387755101
+M2_city_zone_counts,road_incidents,1568,poisson,0.9882347550821646,0.0,1.9661989795918366
+M2_city_zone_counts,waterlogging_reports,1568,poisson,0.9654606542911818,0.0,1.0229591836734695
+M2_city_zone_counts,citizen_complaints,1568,poisson,0.9905899543113715,0.0,7.954719387755102

@@ -1,0 +1,5 @@
+field_name,variable_type,observed_n,missing_n,mean,median,skewness,distribution_class,method,estimate_value,quality_filter
+traffic_volume,numeric,1568,32,2050.9489795918366,2008.5,0.07630538220179525,normal_like,mean,2050.9489795918366,Observed non-missing traffic values.
+avg_speed_kmph,numeric,1551,39,38.162927143778205,37.9,0.08808084090196355,normal_like,mean,38.162927143778205,"Observed speeds restricted to 0-120 km/h; -10, 150, and 200 are excluded from the estimate."
+temperature_c,numeric,1327,32,28.521175584024114,28.6,0.05314314848554186,normal_like,mean,28.521175584024114,Observed non-missing temperatures classified as not probable_error by the month-and-neighbor rule.
+zone,categorical,1568,32,,,,categorical,mode,Central,Observed non-missing canonical zones.

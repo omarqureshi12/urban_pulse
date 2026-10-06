@@ -1,0 +1,10 @@
+metric,unit,n_observed,mean,median,min,q1,q3,max
+Traffic volume,count,1568,2050.9489795918366,2008.5,214,1080.75,3015.25,3999
+Average speed,km/h,1561,38.430941704035874,37.9,-10.0,30.4,46.1,200.0
+Public transport usage,count,1600,1298.6725,1305.0,100,698.25,1889.5,2498
+Parking occupancy,%,1600,68.1373125,67.9,5.0,53.85,82.1,110.0
+Road incidents,count,1600,1.959375,2.0,0,1.0,3.0,8
+Waterlogging reports,count,1600,1.02125,1.0,0,0.0,2.0,6
+Power outage,minutes,1600,11.875062499999999,8.0,0.0,3.3,16.525,127.2
+Citizen complaints,count,1600,7.953125,8.0,1,6.0,10.0,17
+Temperature,°C,1568,28.931823979591837,28.95,6.4,24.075000000000003,33.425,53.8
